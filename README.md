@@ -17,3 +17,42 @@ The repository with my digital electronics and verilog exercises
 <img width="1088" height="704" alt="image" src="https://github.com/user-attachments/assets/ca980457-412c-46ac-8ca9-60ed6b815c7b" />
 <img width="788" height="874" alt="image" src="https://github.com/user-attachments/assets/4ec7a2be-62ee-40fa-b39e-efc8a52b8229" />
 
+<img width="1549" height="336" alt="image" src="https://github.com/user-attachments/assets/a519dbf1-453a-4b67-a2e6-dc97eb954326" />
+
+module top_module (
+    input  [1:0] A,
+    input  [1:0] B,
+    output       z
+);
+
+    assign z = (A == B);
+
+endmodule
+✔ Why this works
+(A == B) is a Boolean expression.
+
+If both 2-bit numbers are equal → expression becomes 1.
+
+Otherwise → 0.
+
+assign is perfect for combinational logic.
+
+If you want the version using an always block, here it is too:
+
+verilog
+Copy code
+module top_module (
+    input  [1:0] A,
+    input  [1:0] B,
+    output reg   z
+);
+
+    always @(*) begin
+        if (A == B)
+            z = 1;
+        else
+            z = 0;
+    end
+
+endmodule
+
