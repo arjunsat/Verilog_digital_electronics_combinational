@@ -56,3 +56,7 @@ module top_module (
 
 endmodule
 
+<img width="1024" height="683" alt="image" src="https://github.com/user-attachments/assets/728de64f-92b2-4581-94e1-811a6d3bf97c" />
+<img width="1401" height="947" alt="image" src="https://github.com/user-attachments/assets/99fc8771-04b8-4dd9-b343-78747800555b" />
+
+
