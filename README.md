@@ -65,6 +65,17 @@ endmodule
 <img width="1518" height="1064" alt="image" src="https://github.com/user-attachments/assets/4e61c21e-11c1-4c48-9d68-0443fd9e7bc6" />
 <img width="570" height="259" alt="image" src="https://github.com/user-attachments/assets/1d732419-7a8a-4776-b4a0-59872e25af2b" />
 <img width="819" height="965" alt="image" src="https://github.com/user-attachments/assets/ee8e6795-ddf5-4e31-9196-0133a291279a" />
+<img width="1524" height="974" alt="image" src="https://github.com/user-attachments/assets/dc59c8db-bd1c-4b40-8421-75be690229ad" />
+
+Create a full adder. A full adder adds three bits (including carry-in) and produces a sum and carry-out.
+
+<img width="904" height="757" alt="image" src="https://github.com/user-attachments/assets/a1618ec7-e01b-4225-bbe6-86feb705d48b" />
+<img width="1525" height="551" alt="image" src="https://github.com/user-attachments/assets/fd1e9d7e-81d0-4994-a189-e08679ac0e43" />
+<img width="846" height="607" alt="image" src="https://github.com/user-attachments/assets/96481527-e0d9-48d9-9cf3-10a5d2efc09d" />
+<img width="1489" height="761" alt="image" src="https://github.com/user-attachments/assets/06253c11-736e-4389-b99c-0310d2bccf0d" />
+
+
+
 
 
 
